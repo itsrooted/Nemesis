@@ -23,6 +23,6 @@
 ### ♤ YouTube:  [CYBERWARE-TECH] (https://www.youtube.com/@CYBERWARE-TECH)
 ### ❀ GitHub:  [CYBERWARE-SECURITY] (https://github.com/CYBERWARE-SEGURITY)  
 ### ✯ Discord:  t3nx1l  
-### ☁ Meu Site:  [CyberWareCursos] (https://linkfly.to/CyberWareCursos)
+### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
 
 ------------------------------------------------
