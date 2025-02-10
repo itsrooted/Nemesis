@@ -1,28 +1,37 @@
-### (English) ###
-## Nemesis.exe v1.0 - Developed by CYBERWARE
+  _   _ ______ __  __ ______  _____ _____  _____ 
+ | \ | |  ____|  \/  |  ____|/ ____|_   _|/ ____|
+ |  \| | |__  | \  / | |__  | (___   | | | (___  
+ | . ` |  __| | |\/| |  __|  \___ \  | |  \___ \ 
+ | |\  | |____| |  | | |____ ____) |_| |_ ____) |
+ |_| \_|______|_|  |_|______|_____/|_____|_____/                                               
+------------------------------------------------
+## ✧ INFORMATION ✧
+Developer: CYBERWARE
+Coded in: C#
+Version: 1.0
+Category: TrojanGdi.Win32
+Compatible Platforms: WinXP, WinVista, Win7, Win8.1, Win10, Win11.
+Execution Requirement: .NET Framework 4.0 (LINK DOWNLOAD)[https://www.mediafire.com/file/4jhlkaaeashxy1g/NetFramework4.exe/file]
+Destructive?- Yes
+------------------------------------------------
 
-Nemesis.exe is a Malicious Software (malware) created and coded in C# and Assembly (ASM). It can run on Windows XP, Vista, 7, 8.1, 10 and 11
-# WARNING!!
+⊗ PHOTOSENSITIVE SEIZURE WARNING ⊗
+Includes Specific Graphic Effects? YES
+Contains Loud or Intense Audio? YES
 
-Nemesis.exe was developed with the intention of acquiring knowledge and 100% ethical and educational studies. Do not use this software for malicious interests.
-# WARNING
+☢ ATTENTION ☢
+I, CYBERWARE, am not responsible for any damages or losses resulting from use.
 
-Any individual use or damages resulting from this software are not the responsibility of the developer.
-# RECOMMENDATION
+☞ RECOMMENDATION ☞
+For testing and research purposes, I strongly recommend using virtual machines, such as VMware or VirtualBox.
 
-Run this software in virtual machines and, if possible, send it to other people or test it on your physical device!
+------------------------------------------------
 
+⇩ NETWORKS ⇩
 
-### (Português)
-## Nemesis.exe v1.0 - Desenvolvido Por CYBERWARE
+♤ YouTube:  [CYBERWARE-TECH] (https://www.youtube.com/@CYBERWARE-TECH)
+❀ GitHub:  [CYBERWARE-SECURITY] (https://github.com/CYBERWARE-SEGURITY)  
+✯ Discord:  t3nx1l  
+☁ Meu Site:  [CyberWareCursos] (https://linkfly.to/CyberWareCursos)
 
-Nemesis.exe é um Software Malicioso (malware) criado e codificado em C# e Assembly (ASM). Ele pode ser executado no Windows XP, Vista, 7, 8.1, 10 e 11
-# AVISOS!!
-
-Nemesis.exe foi desenvolvido com o intuito de adquirir conhecimento e estudos 100% éticos e educacionais. Não use este software para intenções maliciosas.
-# ATENÇÃO
-
-Qualquer uso individual ou prejuízos que derivem deste software não são responsabilidade do desenvolvedor.
-# RECOMENDAÇÃO
-
-Execute este software em máquinas virtuais e, em hipótese alguma, envie para outras pessoas ou teste no seu dispositivo físico!
+------------------------------------------------
