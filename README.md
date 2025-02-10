@@ -14,6 +14,7 @@
 
 ## ☢ ATTENTION ☢
 ### I, CYBERWARE, am not responsible for any damages or losses resulting from use.
+### THIS MALWARE WILL ONLY BE EXECUTED ON 04/05/2090 (2090, 5, 4)
 
 ## ☞ RECOMMENDATION ☞
 ### For testing and research purposes, I strongly recommend using virtual machines, such as VMware or VirtualBox.
