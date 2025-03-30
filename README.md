@@ -1,4 +1,4 @@
-                                             
+# REMASTERED AND UPDATED!!                                             
 ### THIS MALWARE WILL ONLY BE EXECUTED ON 04/05/2090 (2090, 5, 4)
 ---------------------------------------------------------------------------
 ## ✧ INFORMATION ✧
