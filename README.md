@@ -2,7 +2,7 @@
 ### THIS MALWARE WILL ONLY BE EXECUTED ON 04/05/2090 (2090, 5, 4)
 ---------------------------------------------------------------------------
 ## ✧ INFORMATION ✧
-### Developer: CYBERWARE
+### Developer: CYBER
 ### Coded in: C#
 ### Version: 1.0
 ### Category: TrojanGdi.Win32
@@ -20,11 +20,3 @@
 ## ☞ RECOMMENDATION ☞
 ### For testing and research purposes, I strongly recommend using virtual machines, such as VMware or VirtualBox.
 ---------------------------------------------------------------------------
-## ⇩ NETWORKS ⇩
-
-### ♤ YouTube:  [CYBERWARE-TECH] (https://www.youtube.com/@CYBERWARE-TECH)
-### ❀ GitHub:  [CYBERWARE-SECURITY] (https://github.com/CYBERWARE-SEGURITY)  
-### ✯ Discord:  t3nx1l  
-### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
-
-------------------------------------------------
